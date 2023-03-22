@@ -1,4 +1,4 @@
-# Power--BI
+# Power BI
 
 
  -- Power BI Dashboard on Earthquake Dataset for the period of 1900-2023.
