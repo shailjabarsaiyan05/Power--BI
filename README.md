@@ -3,7 +3,7 @@
 
  -- Power BI Dashboard on Earthquake Dataset for the period of 1900-2023.
  
- -- Data Tranformation
+ -- Data Transformation
  
  -- Data Visualisation
 
